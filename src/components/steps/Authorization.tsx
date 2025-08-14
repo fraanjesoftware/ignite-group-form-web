@@ -22,7 +22,7 @@ export const Authorization = ({ formData, onInputChange, onSign, signingError, s
       <div>
         <h3 className="text-xl font-semibold text-gray-800 mb-2">Machtiging Mistersubsidie</h3>
         <p className="text-gray-600 mb-6">
-          Geef Tim Otte/NOT-Company (handelend onder de naam Mistersubsidie) toestemming om namens uw onderneming 
+          Geef Ignite Group BV toestemming om namens uw onderneming 
           de SLIM-subsidie aan te vragen.
         </p>
       </div>
@@ -32,23 +32,23 @@ export const Authorization = ({ formData, onInputChange, onSign, signingError, s
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm">
           <div>
             <p className="text-gray-600">Organisatie:</p>
-            <p className="font-medium">Tim Otte/NOT-Company bv h.o.d.n. Mistersubsidie</p>
+            <p className="font-medium">Ignite Group BV</p>
           </div>
           <div>
             <p className="text-gray-600">KvK-nummer:</p>
-            <p className="font-medium">24353031</p>
+            <p className="font-medium">08118410</p>
           </div>
           <div>
             <p className="text-gray-600">Contactpersoon:</p>
-            <p className="font-medium">Tim Otte</p>
+            <p className="font-medium">Wout C. Otte</p>
           </div>
           <div>
             <p className="text-gray-600">E-mail:</p>
-            <p className="font-medium">Tim@mistersubsidie.nl</p>
+            <p className="font-medium">wout.otte@ignite-group.nl</p>
           </div>
           <div>
             <p className="text-gray-600">Telefoon:</p>
-            <p className="font-medium">06 11 24 13 60</p>
+            <p className="font-medium">0646114504</p>
           </div>
         </div>
       </Card>
